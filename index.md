@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hyperspace by HTML5 UP
+title: Elegant Services
 ---
 
 <!-- Sidebar -->
@@ -23,8 +23,8 @@ title: Hyperspace by HTML5 UP
 <!-- Intro -->
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
-		<h1>Hyperspace</h1>
-		<p>Just another fine responsive site template designed by <a href="http://html5up.net">HTML5 UP</a><br />
+		<h1>Elegant Services</h1>
+		<p>Not just another maintainance Company! <a href="elegantservices.online">elegant</a><br />
 		and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
