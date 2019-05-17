@@ -24,8 +24,8 @@ title: Elegant Services
 <section id="intro" class="wrapper style1 fullscreen fade-up">
 	<div class="inner">
 		<h1>Elegant Services</h1>
-		<p>Not just another maintainance Company! <a href="elegantservices.online">elegant</a><br />
-		efficient and energetic ! </p>
+		<p>Not just another maintainance Company! <a href="elegantservices.online">Elegant</a><br />
+		Efficient and Energetic ! </p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
@@ -62,8 +62,8 @@ title: Elegant Services
 		<a href="#" class="image"><img src="images/pic03.jpg" alt="" data-position="25% 25%" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Ultricies aliquam</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2> Building Maitainance</h2>
+				<p> Matching Industrys best standards</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
