@@ -50,8 +50,8 @@ title: Elegant Services
 		<a href="#" class="image"><img src="images/pic02.jpg" alt="" data-position="top center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Feugiat consequat</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>Office Maintainance</h2>
+				<p> Industry's best practices and standards</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
