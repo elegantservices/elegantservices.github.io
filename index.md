@@ -25,7 +25,7 @@ title: Elegant Services
 	<div class="inner">
 		<h1>Elegant Services</h1>
 		<p>Not just another maintainance Company! <a href="elegantservices.online">elegant</a><br />
-		and released for free under the <a href="http://html5up.net/license">Creative Commons</a>.</p>
+		efficient and energetic ! <a href="http://html5up.net/license">Creative Commons</a>.</p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
@@ -38,8 +38,8 @@ title: Elegant Services
 		<a href="#" class="image"><img src="images/pic01.jpg" alt="" data-position="center center" /></a>
 		<div class="content">
 			<div class="inner">
-				<h2>Sed ipsum dolor</h2>
-				<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus.</p>
+				<h2>Apartments & Housing Societies</h2>
+				<p>The best contract offers anywhere!</p>
 				<ul class="actions">
 					<li><a href="#" class="button">Learn more</a></li>
 				</ul>
