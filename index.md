@@ -25,7 +25,7 @@ title: Elegant Services
 	<div class="inner">
 		<h1>Elegant Services</h1>
 		<p>Not just another maintainance Company! <a href="elegantservices.online">elegant</a><br />
-		efficient and energetic ! <a href="http://html5up.net/license">Creative Commons</a>.</p>
+		efficient and energetic ! </p>
 		<ul class="actions">
 			<li><a href="#one" class="button scrolly">Learn more</a></li>
 		</ul>
