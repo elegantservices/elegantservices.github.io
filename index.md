@@ -145,8 +145,8 @@ title: Elegant Services
 				<ul class="contact">
 					<li>
 						<h3>Address</h3>
-						<span>12345 Somewhere Road #654<br />
-						Nashville, TN 00000-0000<br />
+						<span> ___________<br />
+						Bengaluru - <br />
 						USA</span>
 					</li>
 					<li>
