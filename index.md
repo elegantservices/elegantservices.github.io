@@ -82,32 +82,32 @@ title: Elegant Services
 			<section>
 				<span class="icon major fa-code"></span>
 				<h3>Lorem ipsum amet</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<p>text here</p>
 			</section>
 			<section>
 				<span class="icon major fa-lock"></span>
-				<h3>Aliquam sed nullam</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>heading</h3>
+				<p>Text here</p>
 			</section>
 			<section>
 				<span class="icon major fa-cog"></span>
 				<h3>Sed erat ullam corper</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<p>Text here</p>
 			</section>
 			<section>
 				<span class="icon major fa-desktop"></span>
-				<h3>Veroeros quis lorem</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>Heading</h3>
+				<p>PText here</p>
 			</section>
 			<section>
 				<span class="icon major fa-chain"></span>
-				<h3>Urna quis bibendum</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>heading</h3>
+				<p>Text here</p>
 			</section>
 			<section>
 				<span class="icon major fa-diamond"></span>
-				<h3>Aliquam urna dapibus</h3>
-				<p>Phasellus convallis elit id ullam corper amet et pulvinar. Duis aliquam turpis mauris, sed ultricies erat dapibus.</p>
+				<h3>heading</h3>
+				<p>text here</p>
 			</section>
 		</div>
 		<ul class="actions">
@@ -120,7 +120,7 @@ title: Elegant Services
 <section id="three" class="wrapper style1 fade-up">
 	<div class="inner">
 		<h2>Get in touch</h2>
-		<p>Phasellus convallis elit id ullamcorper pulvinar. Duis aliquam turpis mauris, eu ultricies erat malesuada quis. Aliquam dapibus, lacus eget hendrerit bibendum, urna est aliquam sem, sit amet imperdiet est velit quis lorem.</p>
+		<p>Text here</p>
 		<div class="split style1">
 			<section>
 				<form method="post" action="#">
