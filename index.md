@@ -147,7 +147,7 @@ title: Elegant Services
 						<h3>Address</h3>
 						<span> ___________<br />
 						Bengaluru - <br />
-						USA</span>
+						India</span>
 					</li>
 					<li>
 						<h3>Email</h3>
